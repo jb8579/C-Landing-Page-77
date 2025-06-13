@@ -748,4 +748,18 @@
     .main-area {
         padding: 40px 0 20px 0px;
     }
+    .fclt10-ofrbsbox-bonus p {
+        font-size: 13px;
+    }
+    .fclt10-ofrbsbox-bonus h3 {
+        font-size: 16px;
+    }
+    .fclt10-ofrbsbox-bonus h3 span {
+        font-size: 18px;
+    }
+    .headertext h1 {
+        font-size: 25px;
+        line-height: 30px;
+        padding-bottom: 8px;
+    }
 }
