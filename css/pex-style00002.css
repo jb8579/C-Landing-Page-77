@@ -1,0 +1,751 @@
+@media screen and (min-width: 1240px) and (max-width: 30000px) {
+}
+
+@media screen and (min-width: 1240px) and (max-width: 1400px) {
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1239px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .footerlogos ul li {
+        margin: 0 11px;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .footerlogos ul li {
+        margin: 0 8px;
+    }
+
+    .fclt10-ofrbs-boxbtn a {
+        font-size: 12px;
+        width: 185px;
+        height: 50px;
+        line-height: 50px;
+        margin: auto;
+        margin-right: 0;
+    }
+
+    .fclt10-ofrbsbox-rating h3 {
+        font-size: 16px;
+    }
+
+    .fclt10-ofrbsbox-score h4 {
+        font-size: 25px;
+    }
+
+    .headertext p br {
+        display: none;
+    }
+
+    .headerlogo-part img {
+        height: 66px;
+    }
+
+    .fclt10-ofrbsbox-bonus p {
+        font-size: 13px;
+        line-height: 28px;
+        padding-top: 5px;
+    }
+
+    .fclt10-ofrbsbox-bonus h3 {
+        font-size: 20px;
+    }
+
+    .fclt10-ofrbs-box-area {
+        padding-bottom: 30px;
+    }
+
+    .footerpr-part p br {
+        display: none;
+    }
+
+    .footer-nav ul li a {
+        font-size: 12px;
+    }
+
+    .copyright-area p {
+        font-size: 13px;
+    }
+
+    .fclt10-ofrbs-boxlogo {
+        padding: 29px 25px;
+        height: 111px;
+    }
+
+    .fclt10-ofrbs-boxinner {
+        padding: 19px 0px;
+        padding-left: 20px;
+    }
+
+    .offertext p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .headerlogo-part img {
+        height: 55px;
+    }
+
+    .headertext h1 {
+        font-size: 30px;
+    }
+
+    .headertext p br {
+        display: none;
+    }
+
+    .headertext ul li h6 {
+        font-size: 12px;
+        padding-left: 4px;
+    }
+
+    .headertext ul {
+        padding-top: 20px;
+        gap: 15px;
+    }
+
+    .footer-nav ul li a {
+        font-size: 12px;
+    }
+
+    .footer-nav ul li {
+        margin: 0 10px;
+        margin-bottom: 15px;
+    }
+
+    .footer-nav ul li {
+        padding-left: 0px;
+        padding-bottom: 0px;
+    }
+
+    .footer-part {
+        padding-top: 60px;
+    }
+
+    .footerlogos ul li {
+        margin: 0 7px;
+    }
+
+    .main-fclt10-ofrbs-box {
+        display: block;
+        padding: 30px;
+    }
+
+    .line {
+        display: none;
+    }
+
+    .fclt10-ofrbs-boxleft {
+        width: 100%;
+        position: relative;
+        padding-top: 0px;
+        display: flex;
+        align-items: center;
+        border-radius: 12px 12px 12px 15px;
+        background: #fff;
+        box-shadow: 1px 4px 4px 0px rgba(0, 0, 0, 0.1);
+    }
+
+    .fclt10-ofrbs-boxlogo {
+        width: 60%;
+    }
+
+    .mbrating-box {
+        display: block;
+        width: 50%;
+    }
+
+    .fclt10-ofrbsbox-rating {
+        width: 30%;
+        position: relative;
+    }
+
+    .fclt10-ofrbs-boxinner {
+        width: 100%;
+        padding: 25px;
+        box-sizing: border-box;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+
+    .fclt10-ofrbsbox-bonus {
+        width: 50%;
+        position: relative;
+    }
+
+    .fclt10-ofrbsbox-score {
+        width: 20%;
+        position: relative;
+    }
+
+    .fclt10-ofrbs-boxbtn {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .fclt10-ofrbs-boxbtn a {
+        width: 100%;
+        margin: auto;
+        margin-right: auto;
+    }
+
+    .fclt10-headertop-part p {
+        font-size: 10px;
+    }
+
+    .fclt10-ofrbs-boxlogo {
+        height: initial;
+        transform: none;
+        padding: 38px 19px;
+        padding-right: 48px;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .offertext p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .copyright-area p {
+        font-size: 12px;
+        text-align: left;
+    }
+
+    .footerpr-part {
+        padding-top: 35px;
+    }
+
+    .logobg {
+        width: 100%;
+    }
+
+    .footerlogos ul li a img {
+        height: 57px;
+    }
+
+    .footerpr-part p br {
+        display: none;
+    }
+
+    .cmscorebox {
+        display: none;
+    }
+
+    .mbscorebox {
+        display: block;
+    }
+
+    .footerpr-part p {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .fclt10-headertop-area {
+        padding: 10px 10px;
+    }
+
+    .fclt10-headertop-part p {
+        font-size: 10px;
+        font-weight: 600;
+        align-items: start;
+    }
+
+    .main-area {
+        padding: 40px 0;
+        padding-bottom: 30px;
+        background-image: url("../img/mbbg1.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .headerlogo-part img {
+        height: 42px;
+        margin-bottom: 25px;
+    }
+
+    .headertext h1 {
+        font-size: 32px;
+        line-height: 41px;
+        padding-bottom: 12px;
+    }
+
+    .headertext p br {
+        display: none;
+    }
+
+    .headertext p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+    .headertext ul li h6 {
+        font-size: 11px;
+        top: -4px;
+        padding-left: 4px;
+    }
+
+    .headertext ul li img {
+        max-width: 100%;
+        display: inline-block;
+        width: 23px;
+    }
+
+    .headertext ul {
+        padding-top: 16px;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 17px;
+        justify-content: space-around;
+        grid-row-gap: 13px;
+        width: 290px;
+        margin: auto;
+    }
+
+    .headertext ul li {
+        margin: 0 0px;
+        text-align: left;
+    }
+
+    .fclt10-ofrbs-box-area {
+        padding: 35px 0;
+        padding-bottom: 0px;
+    }
+
+    .main-fclt10-ofrbs-box {
+        padding: 15px 15px;
+        align-items: center;
+        position: relative;
+        margin-bottom: 8px;
+        display: block;
+        border-radius: 10px;
+    }
+
+    .fclt10-ofrbs-boxbtn {
+        width: 100%;
+        padding-top: 14px;
+        box-sizing: border-box;
+    }
+
+    .fclt10-ofrbs-boxbtn a {
+        margin: auto;
+        margin-right: auto;
+    }
+
+    .fclt10-ofrbs-boxleft {
+        width: 100%;
+        position: relative;
+    }
+
+    .line {
+        display: none;
+    }
+
+    .mbrating-box {
+        display: block;
+    }
+
+    .fclt10-ofrbsbox-rating {
+        width: 30%;
+    }
+
+    .fclt10-ofrbs-boxinner {
+        width: 100%;
+        box-sizing: border-box;
+        margin-top: 15px;
+        border-radius: 8px;
+        padding: 15px 10px;
+        gap: 10px;
+    }
+
+    .fclt10-ofrbsbox-bonus {
+        width: 50%;
+    }
+
+    .fclt10-ofrbsbox-bonus h5 {
+        font-size: 12px;
+        text-align: left;
+        padding-bottom: 8px;
+    }
+
+    .fclt10-ofrbsbox-bonus h3 {
+        font-size: 12px;
+        text-align: left;
+        padding-left: 0px;
+        line-height: 23px;
+    }
+
+    .fclt10-ofrbsbox-bonus p {
+        font-size: 8px;
+        font-weight: 600;
+        margin: 0;
+        line-height: 28px;
+        padding-left: 0px;
+        padding-top: 0px;
+    }
+
+    .fclt10-ofrbsbox-score {
+        width: 20%;
+        padding-bottom: 0px;
+    }
+
+    .fclt10-ofrbsbox-score h3 {
+        font-size: 12px;
+        text-align: center;
+        padding-top: 0px;
+        padding-bottom: 5px;
+    }
+
+    .fclt10-ofrbsbox-score h4 {
+        font-size: 16px;
+        text-align: right;
+        align-items: end;
+        justify-content: center;
+    }
+
+    .fclt10-ofrbsbox-score h4 sub {
+        font-size: 12px;
+        margin-left: 1px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+    }
+
+    .fclt10-ofrbs-boxbtn a {
+        font-size: 12px;
+        width: 100%;
+        height: 42px;
+        line-height: 45px;
+    }
+
+    .fclt10-ofrbsbox-rating h3 {
+        font-size: 10px;
+        padding-bottom: 10px;
+    }
+
+    .fclt10-ofrbs-boxlogo {
+        width: 100%;
+    }
+
+    .mbrating-box {
+        width: 45%;
+    }
+
+    .fclt10-ofrbsbox-rating img {
+        max-width: 100%;
+        display: block;
+        margin: auto;
+        height: 15px;
+    }
+
+    .fclt10-francecsno-texthd h2 {
+        font-size: 18px;
+        line-height: 26px;
+        padding-bottom: 8px;
+    }
+
+    .fclt10-francecsno-texthd p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .fclt10-francecsno-texthd {
+        padding-bottom: 35px;
+    }
+
+    .fclt10-francecsno-item1 h2 {
+        font-size: 17px;
+        padding-bottom: 8px;
+        line-height: 27px;
+    }
+
+    .fclt10-francecsno-item1 p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .fclt10-francecsno-item1 {
+        padding-bottom: 25px;
+    }
+
+    .fclt10-francecsno-text-area {
+        padding: 40px 0;
+    }
+
+    .copyright-area p {
+        font-size: 12px;
+        text-align: left;
+    }
+
+    .footer-nav ul li {
+        margin-bottom: 7px;
+        margin-right: 7px;
+    }
+
+    .footer-nav ul li a {
+        font-size: 11px;
+    }
+
+    .footer-nav ul {
+        padding-top: 0px;
+        padding-bottom: 25px;
+    }
+
+    .footerpr-part p {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 24px;
+        padding-bottom: 12px;
+    }
+
+    .footerpr-part p br {
+        display: none;
+    }
+
+    .footerpr-part {
+        padding-top: 0px;
+        padding-bottom: 14px;
+    }
+
+    .footerlogos ul li {
+        display: inline-block;
+        margin: 5px 4px;
+    }
+
+    .footerlogos ul li a img {
+        height: 40px;
+    }
+
+    .fclt10-francecsno-item1 ul li h6 {
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .fclt10boxlogo {
+        max-width: 100%;
+        display: block;
+        margin: auto;
+        height: 40px;
+    }
+
+    .fclt10-ofrbs-boxlogo {
+        padding: 14px 25px;
+        align-items: center;
+        padding-right: 25px;
+        box-sizing: border-box;
+        height: initial;
+    }
+
+    .logobg {
+        border-radius: 8px;
+    }
+
+    .offertext p {
+        font-size: 11px;
+        font-weight: 300;
+        text-align: left;
+        line-height: 16px;
+    }
+
+    .offertext {
+        padding-bottom: 20px;
+    }
+
+    .footer-nav ul li {
+        padding-left: 0;
+    }
+
+    .txnewherotext h1 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .fclt10text-part {
+        border-radius: 15px;
+        padding: 35px 15px;
+        padding-bottom: 5px;
+    }
+
+    .footer-part {
+        padding-top: 35px;
+    }
+
+    .copyright-area {
+        padding: 14px 0;
+    }
+
+    .fclt10-francecsno-text-area2 {
+        padding: 40px 0;
+        padding-bottom: 40px;
+    }
+
+    .mbscorebox {
+        display: block;
+    }
+
+    .cmscorebox {
+        display: none;
+    }
+
+    .footerlogos ul {
+        padding-bottom: 15px;
+    }
+
+    .fclt10-francecsno-text-area2 .fclt10text-part {
+        padding: 35px 15px;
+        padding-bottom: 0px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .fclt10-headertop-part p {
+        font-size: 9px;
+        align-items: start;
+        text-align: center;
+        font-weight: bold;
+    }
+    .fclt10-headertop-area {
+        padding: 6px 4px;
+    }
+    .main-area {
+        position: relative;
+        z-index: 1;
+    }
+
+    .main-area::before {
+        position: absolute;
+        content: "";
+        z-index: -1;
+        background: linear-gradient(45deg, black, #00000047);
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+    .headertext h1 {
+        font-size: 30px;
+        line-height: 38px;
+        padding-bottom: 5px;
+    }
+    .headertext p {
+        font-size: 13px;
+        line-height: 19px;
+    }
+    .headertext ul {
+        padding-top: 26px;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        justify-content: center;
+        width: 100%;
+        margin: auto;
+        gap: 12px;
+    }
+    .headertext ul li {
+        display: flex;
+        align-items: center;
+        gap: 7px;
+        flex-direction: column;
+    }
+    .headertext ul li {
+        margin: 0 0px;
+        text-align: center;
+    }
+    .headertext ul li h6 {
+        font-size: 13px;
+        top: -4px;
+        padding-left: 0;
+        font-weight: 400;
+    }
+    .headertext ul li img {
+        max-width: 100%;
+        display: inline-block;
+        width: 34px;
+    }
+    .fclt10-ofrbsbox-bonus h3 span {
+        color: #61ec40;
+        font-size: 20px;
+    }
+    .fclt10-ofrbsbox-bonus h3 {
+        font-size: 17px;
+    }
+    .fclt10-ofrbsbox-bonus p {
+        font-size: 14px;
+        color: #f0f8ffd6;
+    }
+    .fclt10boxlogo {
+        max-width: 100%;
+        display: block;
+        margin: auto;
+        height: 35px;
+    }
+    .fclt10-ofrbsbox-rating img {
+        max-width: 100%;
+        display: block;
+        margin: auto;
+        height: 18px;
+    }
+    .fclt10-francecsno-texthd h2 {
+        font-size: 21px;
+        line-height: 30px;
+        padding-bottom: 12px;
+    }
+    .fclt10-francecsno-texthd p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .footerpr-part p {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 22px;
+        padding-bottom: 18px;
+    }
+    .footerpr-part p span {
+        color: #61ec40;
+        font-style: italic;
+        text-transform: uppercase;
+        font-weight: 500;
+        font-size: 14px;
+    }
+    .footer-nav ul li a {
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .fclt10-francecsno-item1 ul li {
+        padding-bottom: 15px;
+        color: #c4c5c4;
+        font-size: 14px;
+    }
+    .fclt10-francecsno-item1 p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+}
+
+@media screen and (max-width: 375px){
+    .headertext h1 {
+        font-size: 28px;
+        line-height: 31px;
+        padding-bottom: 12px;
+    }
+    .headertext ul li img {
+        width: 28px;
+    }
+
+    .main-area {
+        padding: 40px 0 20px 0px;
+    }
+}
